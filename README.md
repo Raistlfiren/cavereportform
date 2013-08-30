@@ -5,6 +5,18 @@ The intention of this repository is to created an online report form that may be
 
 In order to improve the ease of learning, I decided to include documentation in the docs/ directory. In that directory it contains an ERD, Entity-Relationship Diagram, of the database schema and a data dictionary for explanation of the fields. My plan is to create more documentation about the form to make the gap of learning how to implement or develop for it a breeze. 
 
-The src/ directory includes all code for the online cave report form. 
+Current screenshot for the cave report form:
 
-A screenshot can be viewed ...
+![Alt cave report form](https://raw.github.com/Raistlfiren/cavereportform/ics-form.jpg "Cave Report Form 2013")
+
+Requirements
+===========
+
+* PHP 5.1.0
+* Yii 1.**
+
+Installation
+===========
+
+Copy everything over to the root or sub-directory
+
