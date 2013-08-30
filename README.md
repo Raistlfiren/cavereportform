@@ -7,7 +7,7 @@ In order to improve the ease of learning, I decided to include documentation in 
 
 Current screenshot for the cave report form:
 
-![Alt cave report form](https://raw.github.com/Raistlfiren/cavereportform/ics-form.jpg "Cave Report Form 2013")
+![cave report form](https://raw.github.com/Raistlfiren/cavereportform/master/ics-form.jpg "Cave Report Form 2013")
 
 Requirements
 ===========
